@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Flutter 3.24.5 • channel [user-branch] • unknown source
+Flutter 3.24.5 -> 3.27.1  • channel [user-branch] • unknown source
 Framework • revision dec2ee5c1f (9 weeks ago) • 2024-11-13 11:13:06 -0800
 Engine • revision a18df97ca5
 Tools • Dart 3.5.4 • DevTools 2.37.3

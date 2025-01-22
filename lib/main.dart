@@ -6,6 +6,7 @@ import 'package:supabase_project/screen/profile/profile_screen.dart';
 
 
 Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
   await Supabase.initialize(
       url: 'https://dkcsxccdmdunftexgdkc.supabase.co',
       anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRrY3N4Y2NkbWR1bmZ0ZXhnZGtjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzY5Mzc2ODAsImV4cCI6MjA1MjUxMzY4MH0.XREOwZkmieytqmnAnvvp8l8OTZYjuP07_GdNGkGKFng'
